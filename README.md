@@ -1,1 +1,1 @@
-# tugstusi infer whisper medium with and without punctuations
+# tugstugi infer whisper medium with and without punctuations
