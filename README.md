@@ -1,1 +1,1 @@
-# tugstusi-infer-w-wo-punc
+# tugstusi infer whisper medium with and without punctuations
