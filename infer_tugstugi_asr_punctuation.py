@@ -46,7 +46,7 @@ warnings.filterwarnings("ignore")
 
 files = list(glob.glob(DATASET_PATH + '/' + '*.wav'))
 files.sort()
-
+# Need to remove device=0 part if need infer with cpu
 pipe = pipeline(task="automatic-speech-recognition",
                 model=MODEL,
                 tokenizer=MODEL,
